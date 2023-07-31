@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+moviepy
+scipy
+timezonefinder
+python-dateutil
+ffmpeg-python
+python-dotenv
+pytz
